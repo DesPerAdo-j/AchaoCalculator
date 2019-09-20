@@ -1,0 +1,10 @@
+D:\GIT作业\AchaoCalculator\DesPerAdo-j\DesPerAdo-j1\DesPerAdo-j1\obj\Debug\DesPerAdo-j1.csprojAssemblyReference.cache
+D:\GIT作业\AchaoCalculator\DesPerAdo-j\DesPerAdo-j1\DesPerAdo-j1\obj\Debug\DesPerAdo_j1.Form1.resources
+D:\GIT作业\AchaoCalculator\DesPerAdo-j\DesPerAdo-j1\DesPerAdo-j1\obj\Debug\DesPerAdo_j1.Properties.Resources.resources
+D:\GIT作业\AchaoCalculator\DesPerAdo-j\DesPerAdo-j1\DesPerAdo-j1\obj\Debug\DesPerAdo-j1.csproj.GenerateResource.cache
+D:\GIT作业\AchaoCalculator\DesPerAdo-j\DesPerAdo-j1\DesPerAdo-j1\obj\Debug\DesPerAdo-j1.csproj.CoreCompileInputs.cache
+D:\GIT作业\AchaoCalculator\DesPerAdo-j\DesPerAdo-j1\DesPerAdo-j1\bin\Debug\DesPerAdo-j1.exe.config
+D:\GIT作业\AchaoCalculator\DesPerAdo-j\DesPerAdo-j1\DesPerAdo-j1\bin\Debug\DesPerAdo-j1.exe
+D:\GIT作业\AchaoCalculator\DesPerAdo-j\DesPerAdo-j1\DesPerAdo-j1\bin\Debug\DesPerAdo-j1.pdb
+D:\GIT作业\AchaoCalculator\DesPerAdo-j\DesPerAdo-j1\DesPerAdo-j1\obj\Debug\DesPerAdo-j1.exe
+D:\GIT作业\AchaoCalculator\DesPerAdo-j\DesPerAdo-j1\DesPerAdo-j1\obj\Debug\DesPerAdo-j1.pdb

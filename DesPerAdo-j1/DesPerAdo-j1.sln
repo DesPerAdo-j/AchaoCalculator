@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesPerAdo-j1", "DesPerAdo-j1\DesPerAdo-j1.csproj", "{27B1D323-7CDD-4829-86AB-C5AC898AD86C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesPerAdo-j1Tests", "DesPerAdo-j1Tests\DesPerAdo-j1Tests.csproj", "{2D73817E-8DD5-4B4A-8095-4804C0DBFCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27B1D323-7CDD-4829-86AB-C5AC898AD86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B1D323-7CDD-4829-86AB-C5AC898AD86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B1D323-7CDD-4829-86AB-C5AC898AD86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B1D323-7CDD-4829-86AB-C5AC898AD86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D73817E-8DD5-4B4A-8095-4804C0DBFCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D73817E-8DD5-4B4A-8095-4804C0DBFCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D73817E-8DD5-4B4A-8095-4804C0DBFCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D73817E-8DD5-4B4A-8095-4804C0DBFCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB5AD0D0-06D4-49B8-B883-5C75F9E02ABE}
+	EndGlobalSection
+EndGlobal
